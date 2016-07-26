@@ -1,8 +1,8 @@
 <?php
-$servername = "mysql.ee.port.ac.uk";
-$username = "up751231";
-$password = "ctrj2154";
-$dbname = "up751231";
+$servername = "mysql_server";
+$username = "username";
+$password = "password";
+$dbname = "db_name";
 $sitename = "Engineering Publication Library"; 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
